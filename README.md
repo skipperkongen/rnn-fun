@@ -7,7 +7,7 @@ This repo contains fun examples of using RNNs (i.e. LSTMs).
 
 ## Generate poetry with a character-level language model
 
-The directory `generate-poetry` contains this example, including all files need to train.
+The directory `generate-poetry` contains this example, including all files needed to train as well as pre-trained models.
 
 You need:
 
